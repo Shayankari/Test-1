@@ -24,7 +24,7 @@
 
 <hr>
 <h3>Links and Images</h3>
-<p>First I'm going to link to<a href="https://qmplus.qmul.ac.uk/course/view.php?idnumber=SLLF-Home">my websire</a> </p> 
+<p>First I'm going to link to<a href="https://qmplus.qmul.ac.uk/course/view.php?idnumber=SLLF-Home">my website</a> </p> 
 
 
 
