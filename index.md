@@ -26,7 +26,7 @@
 <h3>Links and Images</h3>
 <p>First I'm going to link to<a href="https://qmplus.qmul.ac.uk/course/view.php?idnumber=SLLF-Home">my website</a> </p> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Robin%2C_Leighton_Moss_January_2009.jpg" />
+<img src="http://4.bp.blogspot.com/-Ri9OcT3I3jQ/U5X1MZUf-2I/AAAAAAAAIO8/dMCz0ay7p9U/s1600/peace-smiley.png" />
 
 <table>
   <tr>
