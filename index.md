@@ -8,8 +8,6 @@
 </ul>
 
 
-
-
 <h1>Language Learning with me</h1>  
 <h2>Section On: What you can learn here.</h2>
 <p>This is the first paragraph. It isnt very interesting at the moment.</p>
