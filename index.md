@@ -2,6 +2,7 @@
   <li>Home</li>
 </ul>
 
+<img src="img/pexels-photo-225872.jpeg"/>
 
 <h1>Language Learning with me</h1>  
 <h2>Section On: What you can learn here.</h2>
