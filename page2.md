@@ -12,3 +12,6 @@
   <a style="float:right;" href="page3.html">Continue to exercise 2 </a>
 </p>
 <div style="clear:both;"></div> 
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1_n0F3uu1cdbq4loZD7prwOUHdaB3ecpG" width="640" height="480"></iframe>
