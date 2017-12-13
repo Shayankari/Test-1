@@ -9,6 +9,6 @@
 
 <p>
   <a style="float:left;" href="index.html">Back to home page</a>
-  <a style="float:right;" href="page3.html"> Continue to exercise 2 </a>
+  <a style="float:right;" href="page3.html">Continue to exercise 2 </a>
 </p>
 <div style="clear:both;"></div> 
